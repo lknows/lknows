@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on OS development and ocumentation
-- 🌱 I’m currently learning haskell, plutus, python, bash/zsh
+- 🔭 I’m currently working on OS development and documentation
+- 🌱 I’m currently learning haskell, plutus, python, bash/zsh and C
 - 👯 I’m looking to collaborate on OS dev
 - 🤔 I’m looking for help with employment
 - 💬 Ask me about axol, my fork of axyl-os
