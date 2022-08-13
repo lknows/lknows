@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <h1> How are you good folks!!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 70px> </h1>
 <p align='center'>  
 </p>
-<div size='20px'> Hi! My name is Grant(lknows). Thank You for viewing my GitHub Profile :smile: :cool:
+<div size='20px'> Hi! My name is Grant(lknows). Thank You for viewing my GitHub Profile 😎
 </div>
   
-<h3 align="center"> I use Arch BTW! </h3>
+<h3 align="center"> I use axyl/arch btw </h3>
 <p align="center">
 <img align="center" alt="GIF" src="https://static.apester.com/user-images/66/66990c9c68ef205ac02683b905a15dc5.gif" /></p>
 
   
-![](https://komarev.com/ghpvc/?username=theCode-Breaker&color=F28FAD&style=flat-square)
+![](https://komarev.com/ghpvc/?username=lknows&color=blueviolet&style=flat)
 
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
