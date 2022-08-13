@@ -47,3 +47,4 @@ src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3c
 - ⚡ Fun fact: Dennis Ritchie was born on September 9th, 1941(81 years ago).
 
 <h2> I'm not a robot
+:wq
