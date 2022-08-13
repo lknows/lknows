@@ -15,7 +15,7 @@
 <a href = 'https://www.github.com/lknows'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/></a>
 <a href = 'https://gitlab.com/lknows'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png"/></a>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='42px'> </h2>
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h2>
   
 ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=lknows&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lknows&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
