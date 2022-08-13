@@ -6,13 +6,16 @@
   
 <h3 align="center"> I use axyl/arch btw </h3>
 <p align="center">
-<img align="center" alt="GIF" src="https://static.apester.com/user-images/66/66990c9c68ef205ac02683b905a15dc5.gif" /></p>
+<a href="https://venmo.com/u/Alexnander">
+<img align="center" alt="GIF" src="https://static.apester.com/user-images/66/66990c9c68ef205ac02683b905a15dc5.gif" /></p></a>
+
+<a href="https://en.liberapay.com/lknows/donate">
 
 ![](https://komarev.com/ghpvc/?username=lknows&color=blueviolet&style=flat)
 
 <div size='24px'>
 <img src="https://img.shields.io/liberapay/goal/lknows.svg?logo=liberapay"><img src="https://img.shields.io/liberapay/patrons/lknows.svg?logo=liberapay">
-</div>
+</div></a>
 
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
