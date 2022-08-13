@@ -19,8 +19,7 @@
 <p align="center">
 <img align="center" alt="GIF" src="https://static.apester.com/user-images/66/66990c9c68ef205ac02683b905a15dc5.gif" /></p>
 
-<p align="center">
-![](https://komarev.com/ghpvc/?username=lknows&color=blueviolet&style=flat)</p>
+![](https://komarev.com/ghpvc/?username=lknows&color=blueviolet&style=flat)
 
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
