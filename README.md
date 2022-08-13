@@ -10,6 +10,10 @@
 
 ![](https://komarev.com/ghpvc/?username=lknows&color=blueviolet&style=flat)
 
+<div size='24px'>
+<img src="https://img.shields.io/liberapay/goal/lknows.svg?logo=liberapay"><img src="https://img.shields.io/liberapay/patrons/lknows.svg?logo=liberapay">
+</div>
+
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.github.com/lknows'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/></a>
