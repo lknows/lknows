@@ -1,18 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on OS development and documentation
-- 🌱 I’m currently learning haskell, plutus, python, bash/zsh and C
-- 👯 I’m looking to collaborate on OS dev
-- 🤔 I’m looking for help with employment
-- 💬 Ask me about axol, my fork of axyl-os
-- 📫 How to reach me: email and discord rn
-- ⚡ Fun fact: They make 12 string banjo
--->
-
 <h1> How are you good folks!!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 70px> </h1>
 <p align='center'>  
 </p>
-<div size='20px'> Hi! My name is Grant(lknows). Thank You for viewing my GitHub Profile 😎
+<div size='20px'> Hi! My name is Grant(lknows). I'm aspiring programmer. :us: Thank You for viewing my GitHub Profile 😎
 </div>
   
 <h3 align="center"> I use axyl/arch btw </h3>
@@ -35,3 +26,12 @@
 src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
+
+
+- 🔭 I’m currently working on OS development and documentation
+- 🌱 I’m currently learning haskell, plutus, python, bash/zsh and C
+- 👯 I’m looking to collaborate on OS dev
+- 🤔 I’m looking for help with employment
+- 💬 Ask me about axol, my fork of axyl-os
+- 📫 How to reach me: email and discord rn
+- ⚡ Fun fact: They make 12 string banjo
