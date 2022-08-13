@@ -1,7 +1,7 @@
 <h1> How are you good folks!!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 70px> </h1>
 <p align='center'>  
 </p>
-<div size='30px'>Hi! My name is Grant(lknows). I'm a Code Revolutionist! :us: 
+<div size='30px'>Hi! My name is Grant(lknows). I'm a Code Revolutionist & Bug Author! :us: 
   
   I'm trying not to be stupid. 
   
