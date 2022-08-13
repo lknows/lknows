@@ -1,7 +1,11 @@
 <h1> How are you good folks!!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 70px> </h1>
 <p align='center'>  
 </p>
-<div size='30px'>Hi! My name is Grant(lknows). I'm an aspiring programmer. :us: Thank You for viewing my GitHub Profile 😎
+<div size='30px'>Hi! My name is Grant(lknows). I'm a Code Revolutionist! :us: 
+  
+  I'm trying not to be stupid. 
+  
+  Thank You for viewing my GitHub Profile 😎
 </div>
   
 <h3 align="center"> I use axyl/arch btw </h3>
