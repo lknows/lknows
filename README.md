@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> How are you good folks!!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 70px> </h1>
 <p align='center'>  
 </p>
-<div size='20px'> Hi! My name is Adarsh. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Grant(lknows). Thank You for viewing my GitHub Profile :smile: :cool:
 </div>
   
 <h3 align="center"> I use Arch BTW! </h3>
