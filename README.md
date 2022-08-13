@@ -34,6 +34,6 @@ src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3c
 - 🌱 I’m currently learning haskell, plutus, python, bash/zsh and C
 - 👯 I’m looking to collaborate on OS dev
 - 🤔 I’m looking for help with employment
-- 💬 Ask me about axol, my fork of axyl-os
+- 💬 Ask me about [axol](https://github.com/lknows/axyl-iso), my fork of [axyl-os](https://github.com/axyl-os/axyl-iso)
 - 📫 How to reach me: email and discord rn
 - ⚡ Fun fact: They make 12 string banjos
