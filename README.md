@@ -13,14 +13,11 @@
 <a href="https://venmo.com/u/Alexnander">
 <img align="center" alt="GIF" src="https://static.apester.com/user-images/66/66990c9c68ef205ac02683b905a15dc5.gif" /></p></a>
 
-<a href="https://en.liberapay.com/lknows/donate">
-
-![](https://komarev.com/ghpvc/?username=lknows&color=blueviolet&style=flat)
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flknows%2Fhit-counter&count_bg=%23C03DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <div size='24px'>
-<img src="https://img.shields.io/liberapay/goal/lknows.svg?logo=liberapay"><img src="https://img.shields.io/liberapay/patrons/lknows.svg?logo=liberapay">
+<a href="https://en.liberapay.com/lknows/donate"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flknows%2Fhit-counter&count_bg=%23C03DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://en.liberapay.com/lknows/donate"><img src="https://img.shields.io/liberapay/goal/lknows.svg?logo=liberapay"><img src="https://img.shields.io/liberapay/patrons/lknows.svg?logo=liberapay">
 </div></a>
+<a href="https://www.buymeacoffee.com/lknows" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
 
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -39,6 +36,8 @@ src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3c
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
 
+
+![](https://komarev.com/ghpvc/?username=lknows&color=blueviolet&style=flat)
 
 - 🔭 I’m currently working on OS development and documentation
 - 🌱 I’m currently learning haskell, plutus, python, bash/zsh and C
