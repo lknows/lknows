@@ -6,7 +6,9 @@
   I'm trying not to be stupid. 
   
   Thank You for viewing my GitHub Profile 😎
+  
 </div>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%61afef&size=22&center=true&vCenter=true&lines=Python%2C+C%2C+Linux;Axyl%2C+Lua%2C+Haskell"></h1>
   
 <h3 align="center"> I use axyl/arch btw </h3>
 <p align="center">
