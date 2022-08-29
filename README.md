@@ -62,6 +62,7 @@ src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3c
 - 💬 Ask me about [axol](https://github.com/lknows/axyl-iso), my fork of [axyl-os](https://github.com/axyl-os/axyl-iso)
 - 📫 How to reach me: email pls
 - ⚡ Fun fact: Dennis Ritchie was born on September 9th, 1941(81 years ago).
+(https://monkeytype.com/profile/Oqlz28iFIrVj0hntI8Afqy0FMgu1)
 
 <h2> I'm not a robot</h>
  
