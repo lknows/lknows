@@ -63,11 +63,11 @@ src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3c
 - 📫 How to reach me: email pls
 - ⚡ Fun fact: Dennis Ritchie was born on September 9th, 1941(81 years ago).
 
-
+<!--
 [monkeytype](https://monkeytype.com/profile/Oqlz28iFIrVj0hntI8Afqy0FMgu1)
 
 <a href="https://monkeytype.com/profile/Oqlz28iFIrVj0hntI8Afqy0FMgu1"><img src="https://github.com/lknows/lknows/blob/main/Screenshot_2022-08-29_00:50:38.png" /></a>
-
+--!>
 <h2> I'm not a robot</h>
  
 <div align='right'>
